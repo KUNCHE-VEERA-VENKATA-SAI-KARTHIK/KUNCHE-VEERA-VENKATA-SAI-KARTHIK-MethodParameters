@@ -20,7 +20,7 @@ public class Lab {
      * return polly;   | return String polly;
      * return "text";  | return String "text";
      * return text;    | return String text;
-     * return;         | return String;
+     * return;         | return String; si d
      *
      * @param text is a parameter passed into this method by whatever called it.
      * @return text.
